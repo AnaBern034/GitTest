@@ -18,3 +18,5 @@ Git clone: clonar o projeto na máquina
 Git checkout -b : criação da master
 Git push origin feature/ nome da feature a partir da dev: criação de novas funcionalidade
 Git pull: pegar atualização das versões
+ 
+
